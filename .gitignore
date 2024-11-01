@@ -1,2 +1,3 @@
 ./include/libraries
-./build
+.cache/
+build
